@@ -10,7 +10,7 @@ import java.util.*;
 public class Controller {
 
     //On van les funcions
-    public List<eetacemon> l;
+    public List<eetacemon> l; //
 
     public Controller(){
         l = new ArrayList<eetacemon>();
